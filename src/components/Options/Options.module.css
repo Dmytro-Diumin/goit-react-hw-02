@@ -1,0 +1,8 @@
+.btn {
+  background-color: cornflowerblue;
+  margin: 2px;
+}
+
+button:hover {
+  background-color: aquamarine;
+}
